@@ -12,7 +12,10 @@
         "arrow-parens": "off",
         "comma-dangle": "off",
         "require-jsdoc": "off",
-        "eol-last": "off"
+        "eol-last": "off",
+        "indent": "off",
+        "no-debugger": "off",
+        "operator-linebreak": "off"
     },
     "extends": [
         "eslint:recommended",
